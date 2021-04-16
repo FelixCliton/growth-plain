@@ -68,6 +68,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/alpha/alpha-exptmgr/src/main/java/com/yidian/data/exptmgr/service/impl/DeploymentOpEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/alpha/alpha-exptmgr/src/main/java/com/yidian/data/exptmgr/service/impl/K8sDeploymentAlternateUpdateTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/alpha/alpha-exptmgr/src/main/java/com/yidian/data/exptmgr/service/impl/Task.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Desktop/alpha/alpha-exptmgr/src/main/java/com/yidian/data/exptmgr/service/impl/TensorFlowModelBackupServiceImpl.java">
           <value>
             <set />
@@ -98,6 +113,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/blockingqueue/LockConditionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/blockingqueue/ProdConsumerBlockQueueDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/blockingqueue/ProdConsumerTraditional.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/cas/CasDemo.java">
           <value>
             <set />
@@ -109,6 +139,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/container/ContainerNotSafeDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/countdownlatch/CountDownLatchDemo.java">
           <value>
             <set />
           </value>
