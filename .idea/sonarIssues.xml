@@ -163,6 +163,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/thread/DeadLockDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/felix/concurrent/thread/MyThreadPoolDemo.java">
           <value>
             <set />
