@@ -9,11 +9,13 @@ package com.felix.jvm.oom;
 public class JavaHeapSpaceDemo {
 
     public static void main(String[] args) {
-        String str = "hahahhahah";
-        while (true){
-            str+=str;
-            str.intern();
-        }
+//        String str = "hahahhahah";
+//        while (true){
+//            str+=str;
+//            str.intern();
+//        }
+        // -Xms8m -Xmx8m
+        byte[] bytes = new byte[10*1024*1024];
     }
 
 }
