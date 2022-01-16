@@ -15,6 +15,7 @@ public class WeakHashMapDemo {
     public static void main(String[] args) {
 
         WeakHashMap<Integer,String> map = new WeakHashMap<>();
+//        HashMap<Integer,String> map = new HashMap<>();
         Integer key = new Integer(1);
         String value = "value";
         map.put(key,value);
